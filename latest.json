@@ -1,0 +1,8 @@
+{
+  "versionCode": 32,
+  "versionName": "2.9.6",
+  "apkUrl": "https://raw.githubusercontent.com/Ahmed-Mohammed-Abbas/daftar-shop-releases/main/daftar-shop-2.9.6.apk",
+  "sizeBytes": 92657680,
+  "sha256": "346c6e93eeae662dc4a520c08d494c27c75264a8d8c92a7b2fa62d2834b29bd2",
+  "notes": "• المرتجع من الزبون صار يقبل المواد بنفس طرق فاتورة البيع: مسح الباركود بالكاميرا، أو تصوير المواد المرتجعة (تُراجع قبل إضافتها)، أو تصوير الوصل أو الورقة التي يحضرها الزبون فيقرؤها الذكاء الاصطناعي.\n• يبقى الماسح (بلوتوث أو USB) واختيار المادة من القائمة كما كانا."
+}
